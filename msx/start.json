@@ -1,21 +1,21 @@
 {
-  "name": "Service Menu",
-  "headline": "Test repo",
-  "version": "1.0.0",
-  "parameter": "content:https://vokino.github.io/msx/start.json",
-  "action": "[settings:validate_links:0|home]",
-   "template": {
-      "layout": "0,0,3,3",
-      "align": "center",
-      "color": "msx-glass"
-   },
-   "items": [
-      {
-            "title":"",
-            "headline": "vokino",
-            "image": "",
-            "text": "",
-            "action": "link:http://vokino.github.io/"
-      }
-   ]
-}
+   "name": "Service Menu",
+   "headline": "Test repo",
+   "version": "1.0.0",
+   "parameter": "content:https://vokino.github.io/msx/start.json",
+   "action": "[settings:validate_links:0|home]",
+    "template": {
+       "layout": "0,0,3,3",
+       "align": "center",
+       "color": "msx-glass"
+    },
+    "items": [
+       {
+             "title":"",
+             "headline": "vokino",
+             "image": "",
+             "text": "",
+             "action": "link:http://tracks.my.to/vokino"
+       }
+    ]
+ }
